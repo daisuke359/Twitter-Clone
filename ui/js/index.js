@@ -1,4 +1,5 @@
-const URL = 'http://localhost:3000/tweets?';
+const URL = "https://twitter-api-clone-js.herokuapp.com/tweets?";
+//const URL = 'http://localhost:3000/tweets?';
 
 let nextPageUrl = null;
 

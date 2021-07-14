@@ -1,0 +1,46 @@
+@media only screen and (max-width: 1023px) {
+    .navigation-container {
+        width: 15%;
+    }
+
+    .navigation {
+        width: 15%;
+    }
+
+    .tweets-sidebar {
+        width: 230px;
+        height: 370px;
+    }
+    .tweets-trending {
+        height: 140px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .navigation-container {
+        width:7%;
+    }
+
+    .navigation {
+        width: 7%;
+    }
+
+    .fa-twitter {
+        font-size: 40px;
+    }
+    .tweets-search-container {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+
+    .tweets-sidebar-container {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    
+
+}
